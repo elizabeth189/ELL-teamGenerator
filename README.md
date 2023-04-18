@@ -1,25 +1,27 @@
-## ELL E-commerce Back End
+## ELL Team Generator
 
 ## Description
 
-I wanted to build this e-commerce site for users to utilize. The goal was to implement what I have learned regarding mySQL, Sequelize, APIs to creat this site. 
+I created this app to allow users to create their own HTML document that contains their team members with easy to access information they might need! 
 
 ## Installation
 
-npm i;
-mysql -u root -p;
-npm run start
+🌟npm i;
+npm run test, 
+npm start
+
+in the myTeam.html click alt+b to open myTeam.html in your local browser!
 
 ## Usage
 
-The [repo](https://github.com/elizabeth189/myPWA-ELL/blob/main/README.md) allows you to view the files!
-You can look through the files to check out e-commerce site.!
+The [repo](https://github.com/elizabeth189/ELL-teamGenerator) allows you to view the files!
+You can look through the files to check out my team generator!
 
-For example, in insomnia you can GET: 
--localhost:3001/api/tags
--localhost:3001/api/products
- ![Web1](./assets/Web1.PNG)
- ![Web2](./assets/Web2.PNG)
+Here is what the test should look like:  ![Web1](./assets/images/Web1.PNG)
+
+And here's an example of the prompts:  ![Web2](./assets/images/Web2.PNG)
+
+Finally, here is what my html document looks like! ![Web3](./assets/images/Web3.PNG)
 
 ## License
 
